@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.io.*;
 import java.util.*;
 import javax.swing.event.*;
-import java.a wt.*;
+import java.awt.*;
 import java.awt.event.*;
 
 public class RadicalRacingCollision extends JFrame{
